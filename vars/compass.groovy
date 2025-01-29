@@ -1,5 +1,5 @@
-def callHelloWorld() {
-    bat 'echo hello world'
+def call() {
+    bat 'echo hello compass'
 }
 
 // def postJsonToWebhook(compassWebhookUrl, jsonString) {
